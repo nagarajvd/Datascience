@@ -42,7 +42,7 @@ if value >= 99:
 elif value > 200:
 	print 'That is too fast'
 else:
-	print 'That that is safe'
+	print('That is safe')
 
 # For-Loop
 for i in range(10):
